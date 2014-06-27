@@ -1,7 +1,7 @@
 import java.util.concurrent.*;
 import java.util.concurrent.locks.*;
 import java.util.*;
-	class assignment7q2{
+	class diningPhilosopherProblem{
 		
 		
 		public static void main (String[] args) {
